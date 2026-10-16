@@ -1,0 +1,85 @@
+{
+  "scope": "Cópias autorizadas dos 16 HTMLs de estudo; sem anexos nem materiais pessoais/internos.",
+  "pages": [
+    {
+      "criterion": "CI1",
+      "path": "criterios/CI1.html",
+      "sha256": "cfa4f6b14f3f62b06bd6b8b06f4d3414dafc1fb5609ae93f8151089b75b4f11a"
+    },
+    {
+      "criterion": "CI2",
+      "path": "criterios/CI2.html",
+      "sha256": "efea837c6138e9ea9424c67eb9e982b1fda0a972abd4b90561c71d51587eeff1"
+    },
+    {
+      "criterion": "CI3",
+      "path": "criterios/CI3.html",
+      "sha256": "b9d675b0c7d9b2f695d6749900c8245666ee96c4db5e44b5887b5bf95743b3a9"
+    },
+    {
+      "criterion": "DM1",
+      "path": "criterios/DM1.html",
+      "sha256": "587221c8aad55f1762e6c10a65ed4142ad9dd89d5bb7ad21dde7f0f2651ce181"
+    },
+    {
+      "criterion": "DM2",
+      "path": "criterios/DM2.html",
+      "sha256": "cd530e6b13b498c3097d84cf8be45de4bb65f4a98fc4920e23a2b8e2fb92e8fc"
+    },
+    {
+      "criterion": "DM3",
+      "path": "criterios/DM3.html",
+      "sha256": "8430b6067589f0e8373417258cf8c90350273031e2c8543acec1e7ada64ef75f"
+    },
+    {
+      "criterion": "DM4",
+      "path": "criterios/DM4.html",
+      "sha256": "71507a16cc170cf3c72598997eb89a08fd8cc3772634d6aa41f18859b492858f"
+    },
+    {
+      "criterion": "DM5",
+      "path": "criterios/DM5.html",
+      "sha256": "ff6586d3b76a17a2eab3d2d92e125637d7a05f80787fda420bbef6d9b4c10633"
+    },
+    {
+      "criterion": "DM6",
+      "path": "criterios/DM6.html",
+      "sha256": "788c67ffc2a4196a8624019cff5220e6a552f3eded5a61fe718e1f01d7b6de4a"
+    },
+    {
+      "criterion": "DM7",
+      "path": "criterios/DM7.html",
+      "sha256": "de0f42e9483e75dc56548a070bd80fc785a07b658a11ac3039c1f27074a6230a"
+    },
+    {
+      "criterion": "DM8",
+      "path": "criterios/DM8.html",
+      "sha256": "d30dd1cc96e864141ab033aa99194363c2db2ad1758486aa37441270809da763"
+    },
+    {
+      "criterion": "DM9",
+      "path": "criterios/DM9.html",
+      "sha256": "dca6fc1368f0659ece12645cd0e6da2c0fbaff92c7de4c28128ae7bff19b84dd"
+    },
+    {
+      "criterion": "OD1",
+      "path": "criterios/OD1.html",
+      "sha256": "6f0ab76da87f2c1909b17ef5f18cfa21fd56664f557ec183f2ea5bb2697ebc35"
+    },
+    {
+      "criterion": "OD2",
+      "path": "criterios/OD2.html",
+      "sha256": "7909197cdab3f32e72873dafbfb4fcc74a61626b0ae63bd9b677ac4f10c31910"
+    },
+    {
+      "criterion": "OD3",
+      "path": "criterios/OD3.html",
+      "sha256": "16d2f31d090f27e7ad9e241acd7124e37a01eff9ad28f393fe44dabc9ee0821c"
+    },
+    {
+      "criterion": "OD4",
+      "path": "criterios/OD4.html",
+      "sha256": "a79a2e6da1b40fc578996386f7c6dfa93c494a7b0224052afeb3b187b43702df"
+    }
+  ]
+}
